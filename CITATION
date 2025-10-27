@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these FAIR-by-Design learning materials, please cite as below."
+authors:
+  - family-names: Mikkelsen
+    given-names: Jona
+    affiliation: Aalborg University Library (AUB)
+title: "FAIR_BY_DESIGN-TEST"
+abstract: "A prototype repository demonstrating the FAIR-by-Design approach for open learning materials — emphasizing findability, accessibility, interoperability, and reusability. The project serves as a testbed for metadata structures and open educational design."
+version: 1.0.0
+date-released: "2025-10-27"
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+keywords:
+  - "FAIR-by-Design"
+  - "Open Educational Resources"
+  - "Digital Learning"
+  - "AI in Education"
+  - "Information Literacy"
+repository: "https://github.com/JOMlaub/FAIR_BY_DESIGN-TEST"
